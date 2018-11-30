@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="test1.1" time="11" tests="1" failures="0" errors="0">
+   <testsuite name="test1.1" tests="1" failures="0" errors="0" time="11" timestamp="2018-11-30 09:58:23" hostname="Nicolas ortiz - DESKTOP-HQGIS5A" id="Test Suites/test1.1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Nicolas ortiz\\git\\katalonGitTest\\Reports\\test1.1\\20181130_095814"/>
+         <property name="logFiles" value="C:\\Users\\Nicolas ortiz\\git\\katalonGitTest\\Reports\\test1.1\\20181130_095814\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Nicolas ortiz - DESKTOP-HQGIS5A"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.9.1.2"/>
+         <property name="browser" value="Chrome 70.0.3538.110"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="94bd600d9961288c3e3641505dcb974a"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/test1nicolas" classname="Test Cases/test1nicolas" status="PASSED">
+         <system-out><![CDATA[2018-11-30 09:58:23 - [TEST_CASE][PASSED] - Test Cases/test1nicolas: Test Cases/test1nicolas
+
+2018-11-30 09:58:24 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2018-11-30 09:58:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2018-11-30 09:58:25 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2018-11-30 09:58:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-11-30 09:58:29 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+2018-11-30 09:58:32 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+2018-11-30 09:58:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Make Appointment (1)")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment (1)' is clicked on
+
+2018-11-30 09:58:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment (1)' is clicked on
+
+2018-11-30 09:58:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars (1)")): Object: 'Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars (1)' is clicked on
+
+2018-11-30 09:58:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars (1)' is clicked on
+
+2018-11-30 09:58:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Login")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Login' is clicked on
+
+2018-11-30 09:58:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Login' is clicked on
+
+2018-11-30 09:58:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/button_Login (1)")): Object: 'Object Repository/Page_CURA Healthcare Service/button_Login (1)' is clicked on
+
+2018-11-30 09:58:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Login (1)' is clicked on
+
+2018-11-30 09:58:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/i_infokatalon.com_fa fa-chevro")): Object: 'Object Repository/Page_CURA Healthcare Service/i_infokatalon.com_fa fa-chevro' is clicked on
+
+2018-11-30 09:58:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/i_infokatalon.com_fa fa-chevro' is clicked on
+
+2018-11-30 09:58:33 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2018-11-30 09:58:34 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-11-30 09:58:23 - [TEST_SUITE][PASSED] - test1.1: Test Cases/test1nicolas]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
